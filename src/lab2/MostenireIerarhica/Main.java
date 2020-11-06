@@ -5,6 +5,7 @@ import static lab2.MostenireIerarhica.Xiaomi.*;
 import static lab2.MostenireIerarhica.Lenovo.*;
 import static lab2.MostenireIerarhica.Telefon.*;
 
+
 public class Main
 {
     public static void main(String[] args)
